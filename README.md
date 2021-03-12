@@ -10,7 +10,7 @@
 
  - 赵子晗 / 男 / 1995.12
  - 工作年限：2年半
- - Github：https://github.com/80E140E20N60N
+ - Github：80E140E20N60N
  - 期望职位：Web前端程序员
  - 期望薪资：税前月薪
  - 期望城市：广州 / 深圳
@@ -19,7 +19,7 @@
 # **技能清单🧨**
 ### Web开发： HTML / CSS / javaScript / AJAX
 ### 前端框架：Jquery / Bootstrap / VUE / ElementUI / Vant / ECharts
-### 前端工具：SaSS / LeSS
+### 前端工具：SaSS / LeSS / Node.js
 ### 版本管理：Git
 ### 开放平台：微信小程序开发
 <code><img height="20" src="https://gitee.com/ZZH6/picture/raw/master/空间/javascript .png"></code>
@@ -27,7 +27,7 @@
 <code><img height="20" src="https://gitee.com/ZZH6/picture/raw/master/空间/小程序.jpg"></code>
 <code><img height="20" src="https://gitee.com/ZZH6/picture/raw/master/空间/node.jpg"></code>
 <code><img height="20" src="https://gitee.com/ZZH6/picture/raw/master/空间/git.png"></code>
-------
+
 ------
 # 工作经历
 
